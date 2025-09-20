@@ -1,7 +1,7 @@
    ### 👋 Hi There, I'm Shruti
     
    ## Full-Stack Dreamer | Problem-Solving Doer
-🎓 B.Tech CSE Student 
+🎓 B.Tech CSE Student.
 💡 Passionate about **web development, AI-driven solutions, and sustainability-focused technology**  
 🚀 I'm Currently upskilling myself within demanding development tools.  
 🌍 Aspiring to contribute to **open-source** and real-world **SDG-aligned projects***
@@ -12,7 +12,7 @@
 -  🌍Collaborate with developers worldwide 
   
 ## 📫 How to Reach Me 
-📧 Email: nikamshruti27@gmail.com
+📧 Email: nikamshruti27@gmail.com **
 💼 LinkedIn: https://www.linkedin.com/in/shruti-nikam-983062257/ 
 
 ⚡  **Fun Fact:** I believe technology should not only be innovative but also responsible and sustainable.
