@@ -19,4 +19,6 @@
 
  
 ## 🛠️ Languages & Tools  
-💻 C | ☕ Java |  🌐 HTML5 | 🎨 CSS3 | ⚛️ React.js | ▲ Next.js | 🌊 TailwindCSS| 🐘 PostgreSQL| 🐬 MySQL | 🍃 MongoDB | 🌲 Git | 🐙 GitHub | 📝 VS Code
+
+[☕ Java](https://www.java.com/) | [💻 C](https://en.wikipedia.org/wiki/C_(programming_language)) | [🌐 HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML) | [🎨 CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS) | [⚛️ React.js](https://react.dev/) | [🌊 Tailwind CSS](https://tailwindcss.com/) | [🐬 MySQL](https://www.mysql.com/) | [🐘 PostgreSQL](https://www.postgresql.org/) | [🐙 GitHub](https://github.com/)
+
