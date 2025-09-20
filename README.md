@@ -1,16 +1,22 @@
-## Hi there 👋
+   ### 👋 Hi There, I'm Shruti
+    
+   ## Full-Stack Dreamer | Problem-Solving Doer
+🎓 B.Tech CSE Student 
+💡 Passionate about **web development, AI-driven solutions, and sustainability-focused technology**  
+🚀 I'm Currently upskilling myself within demanding development tools.  
+🌍 Aspiring to contribute to **open-source** and real-world **SDG-aligned projects***
 
-<!--
-**shrutinikam27/shrutinikam27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎯 Current Goals  
+-   Master **AI + Full-Stack development**  
+-  🌱Build more **open-source sustainable projects**  
+-  🌍Collaborate with developers worldwide 
+  
+## 📫 How to Reach Me 
+📧 Email: nikamshruti27@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/shruti-nikam-983062257/ 
 
-Here are some ideas to get you started:
+⚡  **Fun Fact:** I believe technology should not only be innovative but also responsible and sustainable.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+## 🛠️ Languages & Tools  
+💻 C | ☕ Java |  🌐 HTML5 | 🎨 CSS3 | ⚛️ React.js | ▲ Next.js | 🌊 TailwindCSS| 🐘 PostgreSQL| 🐬 MySQL | 🍃 MongoDB | 🌲 Git | 🐙 GitHub | 📝 VS Code
