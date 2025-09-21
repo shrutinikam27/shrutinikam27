@@ -20,4 +20,4 @@
  
 ## 🛠️ Languages & Tools  
 
-[☕ Java](https://www.java.com/) | [💻 C](https://en.wikipedia.org/wiki/C_(programming_language)) | [🌐 HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML) | [🎨 CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS) | [⚛️ React.js](https://react.dev/) | [🌊 Tailwind CSS](https://tailwindcss.com/) | [🐬 MySQL](https://www.mysql.com/) | [🐘 PostgreSQL](https://www.postgresql.org/) | [🐙 GitHub](https://github.com/)
+[☕](https://www.java.com/) | [💻 C](https://en.wikipedia.org/wiki/C_(programming_language)) | [🌐 HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML) | [🎨 CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS) | [⚛️ React.js](https://react.dev/) | [🌊 Tailwind CSS](https://tailwindcss.com/) | [🐬 MySQL](https://www.mysql.com/) | [🐘 PostgreSQL](https://www.postgresql.org/) | [🐙 GitHub](https://github.com/)
