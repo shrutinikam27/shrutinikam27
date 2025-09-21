@@ -1,4 +1,4 @@
-   ### 👋 Hi There, I'm Shruti
+   ### 👋 Hi There, I'm Shruti NNikam
     
    ## Full-Stack Dreamer | Problem-Solving Doer
 🎓 B.Tech CSE Student.
