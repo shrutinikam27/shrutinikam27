@@ -12,7 +12,7 @@
 -  🌍Collaborate with developers worldwide 
   
 ## 📫 How to Reach Me 
-📧 Email: nikamshruti27@gmail.com **
+📧 Email: shrutisnikam95@gmail.com**
 💼 LinkedIn: https://www.linkedin.com/in/shruti-nikam-983062257/ 
 
 ⚡  **Fun Fact:** I believe technology should not only be innovative but also responsible and sustainable.
