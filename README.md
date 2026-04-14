@@ -98,11 +98,20 @@ const shruti = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-## 🤝 Let’s Connect
+```
+---
+🚀 Projects
+🟢 StreetVend
 
-<p align="center">
-  <a href="https://shruti-portfolio-ten-ashen.vercel.app/">🌐 Portfolio</a> •
-  <a href="https://www.linkedin.com/in/shruti-s-nikam-983062257/">💼 LinkedIn</a> •
-  <a href="mailto:shrutisnikam95@gmail.com">📧 Email</a>
-</p>
+Platform connecting street vendors with suppliers
 
+MERN Stack
+Real-world problem solving
+🔗 https://streetvend-web.vercel.app/
+🔵 Portfolio
+
+Personal developer portfolio
+
+React + TypeScript
+Modern UI + animations
+🔗 https://shruti-portfolio-ten-ashen.vercel.app/
