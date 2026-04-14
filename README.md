@@ -21,7 +21,7 @@
 ```js
 const shruti = {
   role: "Full Stack Web Developer & App Developer",
-  education: "B.Tech CSE (3rd Year)",
+  education: "B.Tech CSE",
   
   focus: "Building scalable web & mobile applications with great UX",
 
