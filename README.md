@@ -47,7 +47,7 @@ const shruti = {
   ]
 };
 
-##⚡ Tech Arsenal
+## ⚡ Tech Arsenal
 🌐 Web Development
 <p> <img src="https://skillicons.dev/icons?i=react,next,ts,tailwind,html,css,nodejs,express,mongodb,firebase" /> </p>
 📱 App Development
