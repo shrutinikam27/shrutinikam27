@@ -50,14 +50,10 @@ const shruti = {
 ---
 ## ⚡ Tech Arsenal
 
-### 🌐 Web Development
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css,nodejs,express,mongodb,firebase" />
-</p>
-
-### 📱 App Development
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css" /><br><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" /><br><br>
+  <img src="https://skillicons.dev/icons?i=flutter,dart" />
 </p>
 ---
 ## 🚀 Production Projects
