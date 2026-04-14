@@ -47,43 +47,65 @@ const shruti = {
   ]
 };
 
+---
 ## ⚡ Tech Arsenal
-🌐 Web Development
-<p> <img src="https://skillicons.dev/icons?i=react,next,ts,tailwind,html,css,nodejs,express,mongodb,firebase" /> </p>
-📱 App Development
-<p> <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" /> </p>
 
-🚀 Production Projects
-🔹 StreetVend
+### 🌐 Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css,nodejs,express,mongodb,firebase" />
+</p>
 
-👉 Platform solving raw material sourcing for street vendors
+### 📱 App Development
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
+</p>
+---
+## 🚀 Production Projects
 
-Built with MERN stack
-Focus on real-world problem solving
-🔗 https://streetvend-web.vercel.app/
-🔹 Portfolio Website
+### 🔹 StreetVend  
+👉 Platform solving raw material sourcing for street vendors  
 
-👉 My digital identity
+- Built with MERN stack  
+- Focus on real-world problem solving  
+- 🔗 https://streetvend-web.vercel.app/
 
-Built with React + TypeScript + Tailwind
-Smooth animations with Framer Motion
-🔗 https://shruti-portfolio-ten-ashen.vercel.app/
-📱 Gemzi App (Ongoing 🚧)
+---
 
-👉 Mobile application built using Flutter & Dart
+### 🔹 Portfolio Website  
+👉 My digital identity  
 
-Cross-platform (Android & iOS)
-Focus on performance & clean UI
-Integrating backend & real-time features
-(Will be launching soon 🚀)
+- Built with React + TypeScript + Tailwind  
+- Smooth animations with Framer Motion  
+- 🔗 https://shruti-portfolio-ten-ashen.vercel.app/
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" /> </p>
+---
 
-🏆 Achievements
-🚀 Built real-world web applications
-📱 Developing cross-platform mobile apps (Flutter)
-💻 Strong in Frontend + Full Stack Development
+### 📱 Gemzi App (Ongoing 🚧)  
+👉 Mobile application built using Flutter & Dart  
 
-🤝 Let’s Connect
-<p align="center"> <a href="https://shruti-portfolio-ten-ashen.vercel.app/">Portfolio</a> • <a href="https://www.linkedin.com/in/shruti-s-nikam-983062257/">LinkedIn</a> • <a href="mailto:shrutisnikam95@gmail.com">Email</a> </p>
+- Cross-platform (Android & iOS)  
+- Focus on performance & clean UI  
+- Integrating backend & real-time features  
+- Launching soon 🚀
+
+---
+## 📊 GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shrutinikam27&show_icons=true&theme=tokyonight&hide_border=true" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrutinikam27&theme=tokyonight&hide_border=true" /> </p>
+
+---
+## 🏆 Achievements
+
+- 🚀 Built real-world web applications  
+- 📱 Developing cross-platform mobile apps (Flutter)  
+- 💻 Strong in Frontend + Full Stack Development  
+- ⚡ Continuously learning and building impactful projects
+---
+## 🤝 Let’s Connect
+
+<p align="center">
+  <a href="https://shruti-portfolio-ten-ashen.vercel.app/">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/shruti-s-nikam-983062257/">💼 LinkedIn</a> •
+  <a href="mailto:shrutisnikam95@gmail.com">📧 Email</a>
+</p>
+
